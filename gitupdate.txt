@@ -1,0 +1,4 @@
+# update repo
+git fetch https://github.com/mrrfv/cloudflare-gateway-pihole-scripts
+git pull https://github.com/mrrfv/cloudflare-gateway-pihole-scripts
+git push
